@@ -1,0 +1,33 @@
+{
+  "name": "babel-plugin-focus-definitions",
+  "version": "0.1.0",
+  "description": "A babel plugin",
+  "main": "src/zindex.js",
+  "dependencies": {
+    "babel-runtime": "^6.9.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.9.0",
+    "babel-helper-plugin-test-runner": "^6.8.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0"
+  },
+  "scripts": {
+    "test": "node test/run-babel.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pierr/babel-plugin-def.git"
+  },
+  "keywords": [
+    "babel",
+    "focus",
+    "plugin"
+  ],
+  "author": "Pierre Besson <Pierre.besson7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pierr/babel-plugin-def/issues"
+  },
+  "homepage": "https://github.com/pierr/babel-plugin-def#readme"
+}
